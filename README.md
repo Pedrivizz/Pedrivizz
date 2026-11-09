@@ -20,7 +20,7 @@
 
 <a href="https://github.com/W-A-S-D-2-0"><img src="assets/wasd.svg" width="100%" alt="W.A.S.D: startup de Lima que ayuda a pymes a conseguir, atender y fidelizar clientes por internet con webs, WhatsApp con IA y reservas" /></a>
 
-Con W.A.S.D armamos webs, asistentes de WhatsApp y sistemas de reservas para negocios reales, como una pollería de San Miguel, academias preuniversitarias y una empresa de teca. También preparamos demos para barberías y cafeterías.
+Hoy trabajamos con **Woodland Perú**, la empresa de teca para la que empezamos a construir su plataforma comercial en la Hackatón Transforma+ MIPYME 2026. Es nuestro primer cliente y vamos por más.
 
 ### Proyectos
 
