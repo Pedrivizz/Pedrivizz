@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="124" viewBox="0 0 440 124" role="img" aria-label="Academia Vonex: landing para una academia preuniversitaria (prototipo)">
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+    .bg{fill:#EEF3FF}.ac{fill:#0B2463}.st{fill:#1D4FBF}.on{fill:#FFFFFF}.n{fill:#1F2328}.d{fill:#59636E}
+    @media (prefers-color-scheme:dark){.on{fill:#0B2463}.bg{fill:#0C1631}.ac{fill:#FFCC00}.st{fill:#FFCC00}.n{fill:#E6EDF3}.d{fill:#9198A1}}
+  </style>
+  <rect width="440" height="124" rx="16" class="bg"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.15s" fill="freeze"/><circle cx="42" cy="50" r="20" class="ac"/>
+    <text x="42" y="56.5" font-size="17" font-weight="700" text-anchor="middle" class="on">V</text>
+    <text x="76" y="44" font-size="17" font-weight="650" class="n">Academia Vonex</text>
+    <text x="76" y="68" font-size="13.5" class="d">Landing para una academia de San Marcos,</text>
+    <text x="76" y="88" font-size="13.5" class="d">UNI y UNHEVAL: ciclos, precios y sedes</text>
+    <text x="418" y="30" font-size="12" font-weight="600" text-anchor="end" class="st">prototipo</text></g>
+</svg>

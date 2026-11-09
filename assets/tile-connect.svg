@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="124" viewBox="0 0 440 124" role="img" aria-label="WASD Connect: plataforma que conecta pymes de Lima con clientes cercanos (en desarrollo)">
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+    .bg{fill:#EAF1F3}.ac{fill:#1F4E5F}.st{fill:#1F4E5F}.on{fill:#FFFFFF}.n{fill:#1F2328}.d{fill:#59636E}
+    @media (prefers-color-scheme:dark){.on{fill:#0E1A1F}.bg{fill:#13232A}.ac{fill:#7FB6C8}.st{fill:#7FB6C8}.n{fill:#E6EDF3}.d{fill:#9198A1}}
+  </style>
+  <rect width="440" height="124" rx="16" class="bg"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.15s" fill="freeze"/><circle cx="42" cy="50" r="20" class="ac"/>
+    <text x="42" y="56.5" font-size="17" font-weight="700" text-anchor="middle" class="on">C</text>
+    <text x="76" y="44" font-size="17" font-weight="650" class="n">WASD Connect</text>
+    <text x="76" y="68" font-size="13.5" class="d">Conecta pymes de Lima con clientes</text>
+    <text x="76" y="88" font-size="13.5" class="d">cercanos: mapa, reservas y pedidos</text>
+    <text x="418" y="30" font-size="12" font-weight="600" text-anchor="end" class="st">en desarrollo ↗</text></g>
+</svg>
