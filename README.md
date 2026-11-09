@@ -27,12 +27,6 @@ Con W.A.S.D armamos webs, asistentes de WhatsApp y sistemas de reservas para neg
 <p align="center">
 <a href="https://woodland-peru-web.vercel.app"><img src="assets/destacado-woodland.svg" width="100%" alt="Woodland Perú: plataforma comercial para una empresa de teca, hecha con W.A.S.D en la Hackatón Transforma+ MIPYME 2026" /></a>
 </p>
-<p align="center">
-<a href="https://el-gordito-agente.vercel.app"><img src="assets/tile-gordito.svg" width="49%" alt="El Gordito: agente de pedidos por chat y voz para una pollería, con paneles de caja y cocina (en línea)" /></a>
-<a href="https://aula20-xi.vercel.app"><img src="assets/tile-aula20.svg" width="49%" alt="Aula 20: rediseño del home de una academia preuniversitaria (prototipo)" /></a>
-<img src="assets/tile-vonex.svg" width="49%" alt="Academia Vonex: landing para una academia preuniversitaria (prototipo)" />
-<a href="https://github.com/W-A-S-D-2-0/wasd-connect"><img src="assets/tile-connect.svg" width="49%" alt="WASD Connect: plataforma que conecta pymes de Lima con clientes cercanos (en desarrollo)" /></a>
-</p>
 
 <details>
 <summary>Otros proyectos</summary>
