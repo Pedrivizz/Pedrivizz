@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?v=2" alt="Pedro Guia, desarrollo web para pymes de Lima. Ingeniería de Software en la UPC. Founder de W.A.S.D" width="100%" />
+<img src="assets/header.svg" alt="Pedro Guia, desarrollo web para pymes de Lima. Ingeniería de Software en la UPC. Founder de W.A.S.D" width="100%" />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Pedrivizz&label=Visitas&color=1F4E5F&style=flat-square" alt="Visitas al perfil" /></p>
 
@@ -47,7 +47,7 @@ Hoy trabajamos con **Woodland Perú**, la empresa de teca para la que empezamos 
 
 <div align="center">
 
-<a href="mailto:pguia2807@gmail.com"><img src="assets/contacto-correo.svg" height="40" alt="pguia2807@gmail.com" /></a>&nbsp;<a href="https://github.com/W-A-S-D-2-0"><img src="assets/contacto-wasd.svg" height="40" alt="Equipo W.A.S.D" /></a>
+<a href="mailto:pguia2807@gmail.com"><img src="assets/contacto-correo.svg" height="40" alt="pguia2807@gmail.com" /></a>
 
 <img src="assets/footer.svg" alt="" width="100%" />
 
