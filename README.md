@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Pedro Guia, desarrollo web para pymes de Lima. Ingeniería de Software en la UPC. Founder de W.A.S.D" width="100%" />
+<img src="assets/header.svg?v=2" alt="Pedro Guia, desarrollo web para pymes de Lima. Ingeniería de Software en la UPC. Founder de W.A.S.D" width="100%" />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Pedrivizz&label=Visitas&color=1F4E5F&style=flat-square" alt="Visitas al perfil" /></p>
 
